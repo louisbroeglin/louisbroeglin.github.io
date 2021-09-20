@@ -1,6 +1,3 @@
-body{
-    background-color: aquamarine;
-}
 
 h1{
     display: flex;
@@ -17,4 +14,22 @@ button{
 footer{
     display: flex;
     justify-content: center;
+}
+
+.pageune{
+    background-color: cornflowerblue;
+    height: 1792px;
+    width: 828px;
+}
+
+.pagedeux{
+    background-color: yellow;
+    height: 1792px;
+    width: 828px;
+}
+
+.pagetrois{
+    background-color: red;
+    height: 1792px;
+    width: 828px;
 }
